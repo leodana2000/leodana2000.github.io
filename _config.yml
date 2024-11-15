@@ -21,10 +21,10 @@ repository               : "leodana2000/leodana2000.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "PDP carre.JPG"
+  avatar           : "images/PDP carre.JPG"
   name             : "Léo Dana"
   pronouns         : "he/him"  
-  bio              : "Intern at Inria Paris & student at ENS de Lyon, soon PhD in ai applied mathematics."
+  bio              : "Intern at Inria Paris & student at ENS de Lyon, soon PhD in AI and applied mathematics."
   location         : "Paris"
   employer         : "ENS de Lyon / Inria Paris"
   uri              : # URL
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/l%C3%A9o-dana-b169b7207/
+  linkedin         : l%C3%A9o-dana-b169b7207/
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
