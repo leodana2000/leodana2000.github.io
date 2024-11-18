@@ -21,7 +21,7 @@ repository               : "leodana2000/leodana2000.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/PDP carre.JPG"
+  avatar           : "PDP_carre.jpg"
   name             : "Léo Dana"
   pronouns         : "he/him"  
   bio              : "Intern at Inria Paris & student at ENS de Lyon, soon PhD in AI and applied mathematics."

@@ -15,8 +15,8 @@ I am a french researcher interning at Inria before my PhD, advised by Loucas Pil
 
 ## About me
 I volunteer for important, meaningful and fun associations. I am currently involved in 
-* [EffiSciences](https://www.effisciences.org/fr), where I helped develop and promote the idea of *Recherche Impliquée* (RI), (close to *Impactful Research*), which says that research can and should try to have a positive impact on the world. EffiSciences has a lot of different projects on which I contributed since 2022 in RI, biosecurity and safe AIs. We recently wrote a report on impactful research that you can find here.
-* [CeSIA](https://www.securite-ia.fr/), where I helped teach Machine Learning at [ML4G bootcamps](https://www.ml4good.org/), Interpretability research at the [Turing seminar](https://www.master-mva.com/cours/seminaire-turing/) ([slides](Slides/Turing seminar MVA 24_25 - Interpretability .pdf)), and helped for other field building event in the AI-safety community.
+* <img align="right" width = "80" height="80" src="images/effilogo.svg"> [EffiSciences](https://www.effisciences.org/fr), where I helped develop and promote the idea of *Recherche Impliquée* (RI), (close to *Impactful Research*), which says that research can and should try to have a positive impact on the world. EffiSciences has a lot of different projects on which I contributed since 2022 in RI, biosecurity and safe AIs. We recently wrote a report on impactful research that you can find here.
+* <img align="right" width = "80" height="80" src="images/cesialogo2.svg"> [CeSIA](https://www.securite-ia.fr/), where I helped teach Machine Learning at [ML4G bootcamps](https://www.ml4good.org/), Interpretability research at the [Turing seminar](https://www.master-mva.com/cours/seminaire-turing/) ([slides](Slides/Turing seminar MVA 24_25 - Interpretability .pdf)), and helped for other field building event in the AI-safety community.
 
 **Other stuff**: I like to read and sometime post on [LessWrong](https://www.lesswrong.com/users/wcargo). My favorite sport is {biking, running, weight-lifting, bjj, climbing}. I love to discuss philosophy, with some favorite topics being : Absurdism (Camus), Consciousness, Language (Wittgenstein), Moral.
 
@@ -25,4 +25,4 @@ My [**CV**](CV copie.pdf).
 ## Papers
 
 Not much, but here is my first preprint !
-* *Memorization in Attention-only Transformers*, Léo Dana, Muni Sreenivas Pydi, Yann Chevaleyre, preprint for AISTATS 2025. (Work done at Paris-Dauphine University.)
+* [*Memorization in Attention-only Transformers*](https://arxiv.org/abs/2411.10115), Léo Dana, Muni Sreenivas Pydi, Yann Chevaleyre, preprint for AISTATS 2025. (Work done at Paris-Dauphine University.)
