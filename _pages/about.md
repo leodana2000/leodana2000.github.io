@@ -24,5 +24,5 @@ My [**CV**](CV copie.pdf).
 
 ## Papers
 
-Not much, but here is my first preprint !
-* [*Memorization in Attention-only Transformers*](https://arxiv.org/abs/2411.10115), Léo Dana, Muni Sreenivas Pydi, Yann Chevaleyre, preprint for AISTATS 2025. (Work done at Paris-Dauphine University.)
+* [*Convergence of Shallow ReLU Networks on Weakly Interacting Data*](https://arxiv.org/pdf/2502.16977), Léo Dana, Loucas Pillaud-Vivien, Francis Bach, preprint. (Work done at Inria Paris.)
+* [*Memorization in Attention-only Transformers*](https://arxiv.org/abs/2411.10115), Léo Dana, Muni Sreenivas Pydi, Yann Chevaleyre, accepted at AISTATS 2025. (Work done at Paris-Dauphine University.)
