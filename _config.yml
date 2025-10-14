@@ -24,17 +24,17 @@ author:
   avatar           : "PDP_carre.jpg"
   name             : "Léo Dana"
   pronouns         : "he/him"  
-  bio              : "Intern at Inria Paris & student at ENS de Lyon, soon PhD in AI and applied mathematics."
+  bio              : "PhD at Inria Paris in AI and applied Mathematics, former student from ENS de Lyon,."
   location         : "Paris"
-  employer         : "ENS de Lyon / Inria Paris"
+  employer         : "Inria Paris"
   uri              : # URL
   email            : "leo.dana@ens-lyon.fr" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : https://arxiv.org/search/cs?searchtype=author&query=Dana%2C+L
+  googlescholar    : "https://scholar.google.com/citations?hl=fr&user=UGK26NgAAAAJ&view_op=list_works&gmla=AH8HC4wQK4Dg10dZ-KxNn74fcRJdDyHgpGR9qVE78TNOjorpp1A2KTJKLgwOnaiKV7foZ2gNcP2cdA2WJXGO2coxGh1g2usuFLUAVFzaeOyeo3Z5fQ"
   impactstory      : # URL
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : # "https://orcid.org/0009-0004-0870-5707"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL

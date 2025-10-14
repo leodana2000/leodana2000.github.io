@@ -22,7 +22,8 @@ I used to volunteer for important, meaningful and fun associations. I was involv
 
 My [**CV**](CV copie.pdf).
 
-## Papers
+## Publications
 
 * [*Convergence of Shallow ReLU Networks on Weakly Interacting Data*](https://arxiv.org/pdf/2502.16977), Léo Dana, Loucas Pillaud-Vivien, Francis Bach, accepted at NeurIPS 2025. (Work done at Sierra, Inria Paris.)
+* [*Rapport Recherche Impliquée*](https://www.effisciences.org/en/rapport-recherche-impliquee), Jérémy Andréoletti, Antoine Sérandour , Léo Dana , Léo Karoubi (Work done at EffiSciences).
 * [*Memorization in Attention-only Transformers*](https://arxiv.org/abs/2411.10115), Léo Dana, Muni Sreenivas Pydi, Yann Chevaleyre, accepted at AISTATS 2025. (Work done at Lamsade, Paris-Dauphine University.)
