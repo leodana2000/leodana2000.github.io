@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a french Math PhD advised by Loucas Pillaud-Vivien and Francis Bach at [Sierra](https://sierra-mlopt.github.io/), Inria Paris. My research interest are in understanding deep-learning systems through mathematical/theoretic tools, in particular during training and deployment: **How does a model train ?** **What computation does a trained model do ?** Here is a list of resources illustrating these questions :
+I am a french Math PhD student advised by Loucas Pillaud-Vivien and Francis Bach at [Sierra](https://sierra-mlopt.github.io/), Inria Paris. My research interest are in understanding deep-learning systems through mathematical/theoretic tools, in particular during training and deployment: **How does a model train ?** **What computation does a trained model do ?** Here is a list of resources illustrating these questions :
 * [Singular Learning Theory](https://www.lesswrong.com/s/mqwA5FcL6SrHEQzox) : wild maths that link singular algebra to bayesian machine learning.
 * [Mechanistic interpretability](https://www.neelnanda.io/mechanistic-interpretability) : one can try to recover algorithms learned by foundational models to understand various tasks like memorization / translation / elementary algebra.
 * [Superposition](https://transformer-circuits.pub/2022/toy_model/index.html), [Grokking](https://www.neelnanda.io/grokking-paper) and associated phenomenons.
